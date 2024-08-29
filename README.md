@@ -1,5 +1,7 @@
 XPS Tools 
 =========
+This should work on Blender 4.2
+=========
 Blender an addon to Export/Import Haydee assets.
 
 With Blender 2.80 released there where many changes.
