@@ -1353,16 +1353,16 @@ def register(bl_info):
     updater.private_token = None  # "tokenstring"
 
     # Choose your own username, must match website (not needed for GitLab).
-    updater.user = "johnzero7"
+    updater.user = "serenov7"
 
     # Choose your own repository, must match git name for GitHUb and Bitbucket,
     # for GitLab use project ID (numbers only).
-    updater.repo = "xps_tools"
+    updater.repo = "XNALaraMesh"
 
     #updater.addon = # define at top of module, MUST be done first
 
     # Website for manual addon download, optional but recommended to set
-    updater.website = "https://github.com/johnzero7/XNALaraMesh/"
+    updater.website = "https://github.com/SerenoV7/XNALaraMesh/"
 
     # Addon subfolder path
     # "sample/path/to/addon"
